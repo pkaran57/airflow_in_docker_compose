@@ -1,4 +1,4 @@
 .idea/
 airflow_files/
-!/database/data/
-!/logs/
+/database/data/
+/logs/
